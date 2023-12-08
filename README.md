@@ -7,7 +7,7 @@ Giới thiệu thư viện hàm API Tạo máy chủ và máy khách sử dụng
 
 2/ Downloads và Uploads từ máy chủ sang máy khách và ngược lại
 
-3/ Tìm kiếm file - Folder Qua Interent
+3/ Tìm kiếm file - Folder Qua Internet
 
 4/ Các hàm hổ trợ khác kèm theo 
 
