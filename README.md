@@ -1,7 +1,7 @@
 # WebServer-API
 WebServer API
 
-Giới thiệu thư viện hàm API Tao máy chủ và máy khách sử dụng thư viện hàm API ( WebServer.dll )
+Giới thiệu thư viện hàm API Tạo máy chủ và máy khách sử dụng thư viện hàm API ( WebServer.dll )
 
 1/ đọc và ghi dữ liệu từ xa qua Internet
 
@@ -9,9 +9,9 @@ Giới thiệu thư viện hàm API Tao máy chủ và máy khách sử dụng t
 
 3/ Tìm kiếm file - Folder Qua Interent
 
-4/ các hàm hổ trợ khác kèm theo 
+4/ Các hàm hổ trợ khác kèm theo 
 
-5/ cách sử dụng mã trong File Excel
+5/ Cách sử dụng mã trong File Excel
 
 Chi tiết có thể liên hệ: kieumanh366377@gmail.com
 
