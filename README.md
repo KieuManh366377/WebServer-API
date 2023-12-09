@@ -1,6 +1,6 @@
 # WebServer-API
 
-Giới thiệu thư viện hàm API Tạo máy chủ và máy khách sử dụng thư viện hàm API ( WebServer.dll )
+Giới thiệu thư viện hàm API Tạo Máy Chủ và Máy Khách Thông qua giao diện WebServer ( WebServer.dll )
 
 1/ đọc và ghi dữ liệu từ xa qua Internet
 
