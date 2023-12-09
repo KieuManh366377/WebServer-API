@@ -2,9 +2,9 @@
 
 Giới thiệu thư viện hàm API Tạo Máy Chủ và Máy Khách Thông qua giao diện WebServer ( WebServer.dll )
 
-1/ đọc và ghi dữ liệu từ xa qua Internet
+1/ Đọc và ghi dữ liệu từ xa qua Internet
 
-2/ Downloads và Uploads từ máy chủ sang máy khách và ngược lại
+2/ Downloads và Uploads Files từ máy chủ sang máy khách và ngược lại
 
 3/ Tìm kiếm file - Folder Qua Internet
 
